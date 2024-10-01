@@ -1,18 +1,22 @@
-@{
-ViewBag.Title = "Index";
-}
+@model IEnumerable<ListDemo>
 
     <main class="container">
         <br>
-        <h1>Лабораторная работа 1</h1>
+
+        <h1>@ViewData["Title"]</h1>
         <h2>Список</h2>
         <ol type="A">
-            <li>Элемент 1</li>
-            <li>Элемент 2</li>
+            @for(int i =1; i<=3;i++)
+            {
+                <li>Элемент @i</li>
+            }
         </ol>
         <hr>
         <h2>Форма</h2>
         <form action="/Home" method="post">
+            <select asp-items="ViewBag.ListD"  id="itemSelect" name="selectedItem" >    
+            </select>
+
             <div class="row mb-3">
                 <div class="col-sm-10 offset-sm-2">
                 <div class="form-check">
