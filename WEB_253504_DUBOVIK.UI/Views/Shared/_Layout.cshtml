@@ -65,22 +65,16 @@
                         <li><hr class="dropdown-divider"></li>
                         
                         <div class="user-links">
-                            <h2>Информация пользователя</h2>
-                            <ul>
-                                <li>
-                                    <a asp-area="" asp-controller="Cart" asp-action="Index">Корзина</a>
-                                </li>
-                                <li>
-                                    <a asp-area="" asp-controller="Account" asp-action="LogOut">Logout</a>
-                                </li>
-                            </ul>
+                                <a asp-area="" asp-controller="Cart" asp-action="Index">Корзина</a>
+                                
+                                <form id="logoutForm" class="form-inline">
+                                    <a asp-area="" asp-controller="Account" asp-action="LogOut" name="Logout" id="Logout" class="nav-link btn btn-link text-dark" role="button">Logout</a>
+                                </form>
+                                
                         </div>
 
                         <li>
-                        <form id="logoutForm" class="form-inline">
-                        <button id="logout" type="submit" class="nav-link
-                        btn btn-link text-dark">Logout</button>
-                        </form>
+                        
                         </li>
                     </ul>
                 </div>
