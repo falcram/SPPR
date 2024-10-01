@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WEB_253504_DUBOVIK.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1568f1b52d4b20197cf08b8f240d56892952decb")]
 [assembly: System.Reflection.AssemblyProductAttribute("WEB_253504_DUBOVIK.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WEB_253504_DUBOVIK.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

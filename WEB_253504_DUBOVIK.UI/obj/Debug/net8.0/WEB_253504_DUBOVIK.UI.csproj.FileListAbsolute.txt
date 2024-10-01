@@ -29,3 +29,4 @@
 /home/falcram/BSUIR/SPPR/WEB_253504_DUBOVIK.UI/obj/Debug/net8.0/WEB_253504_DUBOVIK.UI.pdb
 /home/falcram/BSUIR/SPPR/WEB_253504_DUBOVIK.UI/obj/Debug/net8.0/WEB_253504_DUBOVIK.UI.genruntimeconfig.cache
 /home/falcram/BSUIR/SPPR/WEB_253504_DUBOVIK.UI/obj/Debug/net8.0/ref/WEB_253504_DUBOVIK.UI.dll
+/home/falcram/BSUIR/SPPR/WEB_253504_DUBOVIK.UI/obj/Debug/net8.0/WEB_253504_DUBOVIK.UI.sourcelink.json
