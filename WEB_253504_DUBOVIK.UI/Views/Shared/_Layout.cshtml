@@ -1,5 +1,7 @@
 ﻿@{
     ViewData["Title"] = "253504";
+
+    var date = DateTime.Now;
 }
 
 <!DOCTYPE html>
@@ -24,7 +26,7 @@
             <!-- меню сайта -->
                 <partial name="_Navbar_Menu" />
             <!-- информация пользователя -->
-                <partial name="_Navbar_UserInfo" />
+                <partial name="_Navbar_UserInfo" model="@date"/>
             
             </nav> <!-- Панель навигации - конец -->
 

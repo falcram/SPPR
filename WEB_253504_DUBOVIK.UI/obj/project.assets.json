@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/falcram/.nuget/packages/": {}
+    "/home/fulcrum/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/falcram/BSUIR/SPPR/WEB_253504_DUBOVIK.UI/WEB_253504_DUBOVIK.UI.csproj",
+      "projectUniqueName": "/home/fulcrum/BSUIR/SPPR/WEB_253504_DUBOVIK.UI/WEB_253504_DUBOVIK.UI.csproj",
       "projectName": "WEB_253504_DUBOVIK.UI",
-      "projectPath": "/home/falcram/BSUIR/SPPR/WEB_253504_DUBOVIK.UI/WEB_253504_DUBOVIK.UI.csproj",
-      "packagesPath": "/home/falcram/.nuget/packages/",
-      "outputPath": "/home/falcram/BSUIR/SPPR/WEB_253504_DUBOVIK.UI/obj/",
+      "projectPath": "/home/fulcrum/BSUIR/SPPR/WEB_253504_DUBOVIK.UI/WEB_253504_DUBOVIK.UI.csproj",
+      "packagesPath": "/home/fulcrum/.nuget/packages/",
+      "outputPath": "/home/fulcrum/BSUIR/SPPR/WEB_253504_DUBOVIK.UI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/falcram/.nuget/NuGet/NuGet.Config"
+        "/home/fulcrum/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
